@@ -1,0 +1,6 @@
+{
+  "shield_multichar": {
+    "version": "1.1.0",
+    "notes": "Discord webhook logs for character create, delete and login."
+  }
+}
